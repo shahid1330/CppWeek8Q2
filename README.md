@@ -11,7 +11,7 @@ h) Reverse, which reverse the character array.
 i) Also overload input and Output operators.
 j) “[]” to retrieve a character from the specified index.
 
-
+/*
 #include <iostream>
 #include <string.h>
 using namespace std;
@@ -153,3 +153,5 @@ int main()
 
     cout << temp.st[1] << endl;
 }
+*/
+	
