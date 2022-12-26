@@ -12,7 +12,7 @@ i) Also overload input and Output operators.
 j) “[]” to retrieve a character from the specified index.
 
 
-```#include #include <string.h> using namespace std;
+`#include #include <string.h> using namespace std;
 
 class String { public: char *st;
 
@@ -129,4 +129,4 @@ temp.display();
 cout << temp.rev(ob1.st) << endl;
 
 cout << temp.st[1] << endl;
-}```
+}`
